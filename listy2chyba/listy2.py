@@ -18,6 +18,7 @@ if user_number in numbers:
 # Znalezienie ilości liczb większych niż 10 w liście
 count_greater_than_10 = sum(1 for num in numbers if num > 10)
 print(f"Ilość liczb większych niż 10 w liście: {count_greater_than_10}")
+
 # Posortowanie listy w kolejności malejącej
 sorted_numbers = sorted(numbers, reverse=True)
 print("Posortowana lista malejąco:", sorted_numbers)
