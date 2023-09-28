@@ -1,0 +1,1 @@
+TEN KALKULATOR ZAWIERA FUNKCJĘ 'def' której najprawdopodobnie jeszcze nie miałeś. Lepiej naucz się czym jest funkcja def zanim pan sie ciebie o to spyta.
