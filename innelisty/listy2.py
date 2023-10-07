@@ -1,5 +1,5 @@
 numbers = [5, 10, 15, 20, 25, 30, 35, 40, 45, 50]  # Przykładowa lista liczb
-
+print('Przykładowa lista',numbers)
 # Wyświetlenie wszystkich liczb w odwrotnej kolejności
 print("Liczby w odwrotnej kolejności:", numbers[::-1])
 
